@@ -1,0 +1,9 @@
+C:\Users\Jake & Lanna\Desktop\projects\Lab16Console\Lab16Console\bin\Debug\Lab16Console.exe.config
+C:\Users\Jake & Lanna\Desktop\projects\Lab16Console\Lab16Console\bin\Debug\Lab16Console.exe
+C:\Users\Jake & Lanna\Desktop\projects\Lab16Console\Lab16Console\bin\Debug\Lab16Console.pdb
+C:\Users\Jake & Lanna\Desktop\projects\Lab16Console\Lab16Console\obj\Debug\Lab16Console.csprojResolveAssemblyReference.cache
+C:\Users\Jake & Lanna\Desktop\projects\Lab16Console\Lab16Console\obj\Debug\Lab16Console.exe
+C:\Users\Jake & Lanna\Desktop\projects\Lab16Console\Lab16Console\obj\Debug\Lab16Console.pdb
+C:\Users\paperspace\Documents\Visual Studio 2015\Projects\Lab16\Lab16Console\bin\Debug\Lab16Console.exe.config
+C:\Users\paperspace\Documents\Visual Studio 2015\Projects\Lab16\Lab16Console\obj\Debug\Lab16Console.exe
+C:\Users\paperspace\Documents\Visual Studio 2015\Projects\Lab16\Lab16Console\obj\Debug\Lab16Console.pdb
